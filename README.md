@@ -3,7 +3,9 @@
 ระบบบริหารข้อมูลผู้ป่วยล้างไตทางช่องท้อง
 
 ## จุดเริ่มต้น
-### จุดประสงค์ในการพ้ฒนาระบบงาน
+### ความเป็นมาของระบบงาน
+1. xxxxx
+    1. yyyyy
 
 This project is a starting point for a Flutter application.
 

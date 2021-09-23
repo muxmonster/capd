@@ -1,8 +1,8 @@
-# capd
+# CAPD data management
 
 ระบบบริหารข้อมูลผู้ป่วยล้างไตทางช่องท้อง
 
-## Getting Started
+## จุดเริ่มต้น
 
 This project is a starting point for a Flutter application.
 

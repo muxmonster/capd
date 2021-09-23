@@ -5,7 +5,7 @@
 ## จุดเริ่มต้น
 ### ความเป็นมาของระบบงาน
 1. xxxxx
-    1. yyyyy
+    * yyyyy
 
 This project is a starting point for a Flutter application.
 
